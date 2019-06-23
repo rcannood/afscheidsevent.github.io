@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Afscheidsevent Annik Lampo</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/scrolling-nav.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Afscheidsevent Annik Lampo</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#programma">Programma</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#waar">Waar</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#inschrijven">Inschrijven</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="bg-primary text-white">
+    <div class="container text-center">
+      <h1>Afscheidsevent Annik Lampo</h1>
+      <p class="lead">Vrijdag 18 oktober 2019</p>
+    </div>
+  </header>
+
+  <section id="programma" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h2>Programma</h2>
+          <p class="lead">VUB Auditorium P. Brouwer (faculteitsgebouw A - Geneeskunde en Farmacie)</p>
+          <ul>
+            <li>13u45 <b>Onthaal</b></li>
+            <li>14u00 <b>Prof. Dr. Marc Noppen</b> | CEO UZ Brussel | Intro</li>
+            <li>14u15 <b>Prof. Dr. Marina Danckaerts</b> | Kinder- en Jeugdpsychiater Diensthoofd UPC KU Leuven</li>
+            <li>15u00 <b>Haim Omer</b> | Hoogleraar universiteit Tel Aviv | Videoboodschap</li>
+            <li>15u30 <b>Edward Campforts</b> | Hello!</li>
+            <li>15u45 <b>Annik Lampo</b> | Goodbye!</li>
+          </ul>
+          <p class="lead">Restaurant (UZ Brussel - routenr. 100)</p>
+          <ul>
+            <li>16u00 <b>Receptie</b></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="waar">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h2>Waar?</h2>
+          <p>VUB Auditorium P. Brouwer<br/>UZ Brussel<br/>Brussels Health Campus<br/>Laarbeeklaan 101<br/>1090 Jette</p>
+          <ul>
+            <li><a href="https://www.uzbrussel.be/web/guest/bus">Routebeschrijving</a></li>
+            <li><a href="https://www.uzbrussel.be/web/guest/parkeerplaatsen-auto">Parkeren</a></li>
+          </ul>
+          <img class="img-responsive" src="img/parkeren.jpg" style="width:100%; height:auto;" alt="Parking">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="inschrijven" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h2>Inschrijven</h2>
+          <form id="submit-form">
+            <div class="form-group">
+              <label for="usr">Naam:</label>
+              <input type="text" name="naam" class="form-control" id="naam">
+            </div>
+            <div class="form-group">
+              <label for="sel1">Aantal personen:</label>
+              <select class="form-control" name="aantal_personen" id="aantal">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+              </select>
+            </div>
+            <div class="checkbox">
+              <input type='hidden' value='nee' name='lezingen'>
+              <label><input type="checkbox" name="lezingen" value="ja"> Lezingen - VUB Auditorium P. Brouwers</label>
+            </div>
+            <div class="checkbox">
+              <input type='hidden' value='nee' name='drink'>
+              <label><input type="checkbox" name="drink" value="ja"> Drink - Restaurant UZ Brussel</label>
+            </div>
+            <button type="submit" class="btn btn-primary btn-md">Inschrijven</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright &copy; Robrecht Cannoodt 2019</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom JavaScript for this theme -->
+  <script src="js/scrolling-nav.js"></script>
+
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwIgMYOOmgVfpUtvUWM-KrWK_cw6rhhCqFf2OXO/exec'
+  const form = document.forms['submit-form']
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
+
+</body>
+
+</html>
