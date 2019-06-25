@@ -98,23 +98,24 @@
             </div>
             <div class="form-group">
               <label for="sel1">Aantal personen:</label>
-              <select class="form-control" name="aantal_personen" id="aantal">
+              <select class="form-control" name="aantalpersonen" id="aantal">
                 <option>1</option>
                 <option>2</option>
                 <option>3</option>
                 <option>4</option>
+                <option>5</option>
+                <option>6</option>
               </select>
             </div>
             <div class="checkbox">
-              <input type='hidden' value='nee' name='lezingen'>
-              <label><input type="checkbox" name="lezingen" value="ja"> Lezingen - VUB Auditorium P. Brouwers</label>
+              <label><input type="checkbox" name="lezingen" value="ja" /> Lezingen - VUB Auditorium P. Brouwers</label>
             </div>
             <div class="checkbox">
-              <input type='hidden' value='nee' name='drink'>
-              <label><input type="checkbox" name="drink" value="ja"> Drink - Restaurant UZ Brussel</label>
+              <label><input type="checkbox" name="drink" value="ja" /> Drink - Restaurant UZ Brussel</label>
             </div>
             <button type="submit" class="btn btn-primary btn-md">Inschrijven</button>
           </form>
+          <div id="alert_placeholder"/>
         </div>
       </div>
     </div>
@@ -145,9 +146,15 @@
 
   form.addEventListener('submit', e => {
     e.preventDefault()
+    $('#alert_placeholder').html('<div class="alert alert-success"><a class="close" data-dismiss="alert">×</a><span>Bedankt voor uw inschrijving!</span></div>')
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-      .then(response => console.log('Success!', response))
-      .catch(error => console.error('Error!', error.message))
+      .then(response => {
+        console.log('Success!', response)
+      })
+      .catch(error => {
+        console.error('Error!', error.message)
+        $('#alert_placeholder').html('<div class="alert alert-danger"><a class="close" data-dismiss="alert">×</a><span>Er liep iets fout bij uw inschrijving:<br/>' + error.message + '<br/></span></div>')
+      })
   })
 </script>
 
