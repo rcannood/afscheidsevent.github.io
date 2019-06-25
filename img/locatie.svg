@@ -15,14 +15,14 @@
    width="768.03522"
    height="419.22839"
    viewBox="0 0 768.0352 419.22839"
-   sodipodi:docname="aangepast 2.svg"
+   sodipodi:docname="locatie.svg"
    inkscape:version="0.92.4 (unknown)"
-   inkscape:export-filename="/home/rcannood/Downloads/locatie.png"
+   inkscape:export-filename="/home/rcannood/Workspace/sandbox/afscheidsevent.github.io/img/locatie.png"
    inkscape:export-xdpi="249.99001"
    inkscape:export-ydpi="249.99001"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath16"><path
@@ -2112,13 +2112,13 @@
      inkscape:window-height="2031"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="3.3640301"
-     inkscape:cx="319.60782"
-     inkscape:cy="213.9531"
+     inkscape:zoom="4.757457"
+     inkscape:cx="342.18619"
+     inkscape:cy="237.24814"
      inkscape:window-x="0"
      inkscape:window-y="55"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3112"
+     inkscape:current-layer="g10"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -4040,16 +4040,12 @@
 
 
 
-<path
-   d="m 238.3764,315.36953 h 49.65646 v 28.40028 H 238.3764 Z"
-   style="fill:#60604d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.56256056"
-   id="path2656"
-   inkscape:connector-curvature="0" />
+
 
 <g
    id="g2662"
    transform="translate(238.7333,319.5512)"><path
-     d="M 4.793358,-3.009783 0.831,-17.242 6.581358,-3.009783"
+     d="M -7.2066421,-34.509783 -11.169,-48.742 l 5.7503579,14.232217"
      style="fill:#60604d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89779907"
      id="path2664"
      inkscape:connector-curvature="0"
@@ -4065,6 +4061,7 @@
      id="tspan2716">Dikke Beuklaan</tspan></text>
 
 
+
 <text
    transform="matrix(0.78260868,-0.62251398,-0.62251398,-0.78260868,110.6869,330.7829)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.38684464px;font-family:'GGOLDP +Roboto-Regular';-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#60604d;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4073,6 +4070,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan2720">Laarbeeklaan</tspan></text>
+
 
 
 
@@ -4097,6 +4095,7 @@
      id="tspan2900">P</tspan></text>
 
 
+
 <g
    id="g2904"><g
      id="g2906"
@@ -4116,6 +4115,7 @@
      id="tspan3016">Afrit 9</tspan></text>
 
 
+
 <g
    id="g3020"
    transform="translate(534.7045,146.4392)"><path
@@ -4132,6 +4132,7 @@
      id="tspan3024">Centrum</tspan></text>
 
 
+
 <path
    d="m 122.98,208.353 h 12.744 v 7.486 H 122.98 Z"
    style="fill:#009641;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4144,6 +4145,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3030">E40</tspan></text>
+
 
 
 <path
@@ -4160,6 +4162,7 @@
      id="tspan3036">E19</tspan></text>
 
 
+
 <path
    d="m 122.98,192.36 h 12.744 v 7.487 H 122.98 Z"
    style="fill:#009641;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4174,6 +4177,7 @@
      id="tspan3042">E411</tspan></text>
 
 
+
 <text
    transform="matrix(1,0,0,-1,122.6335,176.5275)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.38689995px;font-family:'GGOLDP +Roboto-Regular';-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4182,6 +4186,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3046">Ring</tspan></text>
+
 
 
 <g
@@ -4404,6 +4409,7 @@
      id="tspan3360">TRAM</tspan></text>
 
 
+
 <path
    d="m 68.003,245.402 h 12.744 v 7.487 H 68.003 Z"
    style="fill:#008bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4415,6 +4421,7 @@
      x="0"
      y="0"
      id="tspan3366">9</tspan></text>
+
 
 
 <text
@@ -4429,6 +4436,7 @@
      y="6.2080669"
      sodipodi:role="line"
      id="tspan3372">UZ Brussel</tspan></text>
+
 
 
 <g
@@ -4455,6 +4463,7 @@
      id="tspan3384">De Lijn</tspan></text>
 
 
+
 <path
    d="m 224.515,345.321 h 12.744 v 7.487 h -12.744 z"
    style="fill:#ffed00;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4467,6 +4476,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3390">820</tspan></text>
+
 
 
 <path
@@ -4483,6 +4493,7 @@
      id="tspan3396">BUS</tspan></text>
 
 
+
 <path
    d="m 224.515,361.401 h 12.744 v 7.487 h -12.744 z"
    style="fill:#008bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4495,6 +4506,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3402">14</tspan></text>
+
 
 
 <path
@@ -4511,6 +4523,7 @@
      id="tspan3408">BUS</tspan></text>
 
 
+
 <path
    d="m 224.515,369.457 h 12.744 v 7.487 h -12.744 z"
    style="fill:#008bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4523,6 +4536,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3414">13</tspan></text>
+
 
 
 <path
@@ -4539,6 +4553,7 @@
      id="tspan3420">BUS</tspan></text>
 
 
+
 <path
    d="m 224.515,353.395 h 12.744 v 7.487 h -12.744 z"
    style="fill:#008bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4553,6 +4568,7 @@
      id="tspan3426">53</tspan></text>
 
 
+
 <text
    transform="matrix(1,0,0,-1,194.1137,352.2062)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.38689995px;font-family:'GGOLDP +Roboto-Regular';-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#60604d;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4565,6 +4581,7 @@
      y="6.2080669"
      sodipodi:role="line"
      id="tspan3432">UZ VUB</tspan></text>
+
 
 
 <g
@@ -4587,6 +4604,7 @@
      id="tspan3442">BUS</tspan></text>
 
 
+
 <path
    d="m 409.825,155.458 h 12.744 v 7.487 h -12.744 z"
    style="fill:#008bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4599,6 +4617,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3448">13</tspan></text>
+
 
 
 <path
@@ -4615,6 +4634,7 @@
      id="tspan3454">BUS</tspan></text>
 
 
+
 <path
    d="m 409.825,139.447 h 12.744 v 7.487 h -12.744 z"
    style="fill:#008bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4627,6 +4647,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3460">84</tspan></text>
+
 
 
 <path
@@ -4643,6 +4664,7 @@
      id="tspan3466">BUS</tspan></text>
 
 
+
 <path
    d="m 409.825,147.453 h 12.744 v 7.486 h -12.744 z"
    style="fill:#008bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4655,6 +4677,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3472">53</tspan></text>
+
 
 
 <path
@@ -4675,6 +4698,7 @@
      id="tspan3480">De Lijn</tspan></text>
 
 
+
 <path
    d="m 409.825,131.442 h 12.744 v 7.487 h -12.744 z"
    style="fill:#ffed00;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4687,6 +4711,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3486">245</tspan></text>
+
 
 
 <path
@@ -4715,6 +4740,7 @@
      id="tspan3498">De Lijn</tspan></text>
 
 
+
 <path
    d="m 396.556,115.388 h 12.878 v 7.486 h -12.878 z"
    style="fill:#008bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4727,6 +4753,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3504">TRAM</tspan></text>
+
 
 
 <path
@@ -4742,6 +4769,7 @@
      id="tspan3510">9</tspan></text>
 
 
+
 <text
    transform="matrix(1,0,0,-1,375.9203,153.3763)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.38689995px;font-family:'GGOLDP +Roboto-Regular';-inkscape-font-specification:Roboto-Regular;writing-mode:lr-tb;fill:#60604d;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4754,6 +4782,7 @@
      y="6.2080669"
      sodipodi:role="line"
      id="tspan3516">UZ Pediatrie</tspan></text>
+
 
 
 <g
@@ -4910,6 +4939,7 @@
      id="tspan3730">P</tspan></text>
 
 
+
 <path
    d="m 205.053,328.683 h -72.73 v 8.938 h 72.73 z"
    style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4922,6 +4952,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3736">betalende parking UZ</tspan></text>
+
 
 
 <g
@@ -4937,6 +4968,7 @@
      y="-317.63562">Ingang 4</tspan></text>
 
 
+
 <text
    y="-234.69939"
    x="90.265274"
@@ -4949,57 +4981,66 @@
      id="tspan5908">Ingang 3</tspan></text>
 
 
+
 <g
    id="g2590"
    transform="translate(0.28681)"><path
    inkscape:connector-curvature="0"
    id="path2606"
-   style="fill:#60604d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.46138406"
-   d="m 373.76114,324.2364 h 55.4883 v 24.61018 h -55.4883 z" /><text
+   style="fill:#60604d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.35739279"
+   d="m 373.76114,324.2364 h 68.25773 v 31.70431 h -68.25773 z" /><text
    transform="scale(1,-1)"
    id="text2582"
-   y="-342.05011"
-   x="401.50708"
-   style="font-style:normal;font-weight:normal;font-size:7.30299997px;line-height:1.10000002;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+   y="-346.87723"
+   x="407.89221"
+   style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.10000002;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    xml:space="preserve"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.30299997px;line-height:1.10000002;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-     y="-342.05011"
-     x="401.50708"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.10000002;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+     y="-346.87723"
+     x="407.89221"
      id="tspan2580"
      sodipodi:role="line">13u30 Lezingen</tspan><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.30299997px;line-height:1.10000002;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-     y="-333.9455"
-     x="401.50708"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.10000002;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+     y="-336.88934"
+     x="407.89221"
      sodipodi:role="line"
      id="tspan2574">VUB gebouw A</tspan><tspan
      id="tspan2584"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.30299997px;line-height:1.10000002;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-     y="-325.84088"
-     x="401.50708"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.10000002;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+     y="-326.90146"
+     x="407.89221"
      sodipodi:role="line">Aud. P. Brouwer</tspan></text>
 
-</g><text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.30299997px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="263.14758"
-   y="-336.71933"
-   id="text2578"
-   transform="scale(1,-1)"><tspan
-     sodipodi:role="line"
-     x="263.14758"
-     y="-336.71933"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.30299997px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:0.75"
-     id="tspan2581">16u00 Drink</tspan><tspan
-     sodipodi:role="line"
-     x="263.14758"
-     y="-327.59058"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.30299997px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:0.75"
-     id="tspan2585">UZ gebouw A</tspan><tspan
-     sodipodi:role="line"
-     x="263.14758"
-     y="-318.46182"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.30299997px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:0.75"
-     id="tspan2587">1<tspan
-   style="font-size:64.99999762%;baseline-shift:super;fill:#f1f1f1;fill-opacity:1"
-   id="tspan2589">ste</tspan> verdieping</tspan></text>
+
+</g><g
+   id="g2559"
+   transform="translate(-12,-31.5)"><path
+     inkscape:connector-curvature="0"
+     id="path2656"
+     style="fill:#60604d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.25048447"
+     d="m 238.3764,315.36953 h 64.7906 v 35.02146 h -64.7906 z" /><text
+     transform="scale(1,-1)"
+     id="text2578"
+     y="-341.69128"
+     x="270.70139"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:0.75"
+     xml:space="preserve"><tspan
+       id="tspan2581"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:0.75"
+       y="-341.69128"
+       x="270.70139"
+       sodipodi:role="line">16u00 Drink</tspan><tspan
+       id="tspan2585"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:0.75"
+       y="-330.44128"
+       x="270.70139"
+       sodipodi:role="line">UZ gebouw A</tspan><tspan
+       id="tspan2587"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#f1f1f1;fill-opacity:1;stroke-width:0.75"
+       y="-319.19128"
+       x="270.70139"
+       sodipodi:role="line">1<tspan
+   id="tspan2589"
+   style="font-size:9px;baseline-shift:super;fill:#f1f1f1;fill-opacity:1">ste</tspan> verdieping</tspan></text>
+</g>
 </g></svg>
