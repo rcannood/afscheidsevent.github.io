@@ -3,14 +3,14 @@
 
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143597662-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-143597662-1');
-</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143597662-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'UA-143597662-1');
+  </script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -59,6 +59,42 @@
     </div>
   </header>
 
+  <section id="inschrijven" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 mx-auto">
+          <h2>Inschrijven</h2>
+          <p>Gelieve uw deelname te bevestigen voor 1/10/2019.</p>
+          <form id="submit-form">
+            <div class="form-group">
+              <label for="usr">Naam:</label>
+              <input type="text" name="naam" class="form-control" id="naam">
+            </div>
+            <div class="form-group">
+              <label for="sel1">Aantal personen:</label>
+              <select class="form-control" name="aantalpersonen" id="aantal">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+              </select>
+            </div>
+            <div class="checkbox">
+              <label><input type="checkbox" name="lezingen" value="ja" /> Lezingen - VUB Auditorium P. Brouwers</label>
+            </div>
+            <div class="checkbox">
+              <label><input type="checkbox" name="drink" value="ja" /> Drink - Restaurant UZ Brussel</label>
+            </div>
+            <button type="submit" class="btn btn-primary btn-md">Inschrijven</button>
+          </form>
+          <div id="alert_placeholder"/>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section id="programma" class="bg-light">
     <div class="container">
       <div class="row">
@@ -91,42 +127,6 @@
           <p>VUB &ndash; UZ Brussel<br/>Brussels Health Campus<br/>Laarbeeklaan 101<br/>1090 Jette</p>
           <a href="img/locatie.jpg"><img class="img-responsive" src="img/locatie.jpg" style="width:100%; height:auto;" alt="Locatie"></a>
           <p>Klik <a href="img/locatie.jpg">hier</a> voor een grotere weergave.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="inschrijven" class="bg-light">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 mx-auto">
-          <h2>Inschrijven</h2>
-          <p>Gelieve uw deelname te bevestigen voor 1/10/2019.</p>
-          <form id="submit-form">
-            <div class="form-group">
-              <label for="usr">Naam:</label>
-              <input type="text" name="naam" class="form-control" id="naam">
-            </div>
-            <div class="form-group">
-              <label for="sel1">Aantal personen:</label>
-              <select class="form-control" name="aantalpersonen" id="aantal">
-                <option>1</option>
-                <option>2</option>
-                <option>3</option>
-                <option>4</option>
-                <option>5</option>
-                <option>6</option>
-              </select>
-            </div>
-            <div class="checkbox">
-              <label><input type="checkbox" name="lezingen" value="ja" /> Lezingen - VUB Auditorium P. Brouwers</label>
-            </div>
-            <div class="checkbox">
-              <label><input type="checkbox" name="drink" value="ja" /> Drink - Restaurant UZ Brussel</label>
-            </div>
-            <button type="submit" class="btn btn-primary btn-md">Inschrijven</button>
-          </form>
-          <div id="alert_placeholder"/>
         </div>
       </div>
     </div>
