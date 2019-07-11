@@ -157,10 +157,10 @@
 
   form.addEventListener('submit', e => {
     e.preventDefault()
-    $('#alert_placeholder').html('<div class="alert alert-success"><a class="close" data-dismiss="alert">×</a><span>Bedankt voor uw inschrijving!</span></div>')
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
       .then(response => {
         console.log('Success!', response)
+        $('#alert_placeholder').html('<div class="alert alert-success"><a class="close" data-dismiss="alert">×</a><span>Bedankt voor uw inschrijving!</span></div>')
       })
       .catch(error => {
         console.error('Error!', error.message)
